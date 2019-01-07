@@ -5,6 +5,7 @@ This is the main LushRooms project repository, including links to the different 
 ## Project components
 
 * LushRoom Pi physical box
+* LushRoom Pi bootstrap files to create the LushRoom Pi host SD image
 * LushRoom Pi base docker image
 * LushRoom Pi rclone docker image
 * LushRoom Pi display docker image
